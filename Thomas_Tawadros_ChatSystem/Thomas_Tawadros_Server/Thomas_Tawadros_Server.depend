@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1561678363 source:/home/tom/Desktop/Thomas_Tawadros_ChatSystem/Thomas_Tawadros_Server/main.cpp
+	<iostream>
+	<stdlib.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/socket.h>
+	<netdb.h>
+	<netinet/in.h>
+	<string.h>
+	<string>
+	<sys/poll.h>
+	<sys/ioctl.h>
+	<errno.h>
+
